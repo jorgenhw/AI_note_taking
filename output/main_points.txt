@@ -1,0 +1,16 @@
+- This is not a comprehensive overview of decision theory
+- The focus will be on concrete tools for building decision models
+- Decision models should be anchored in theory
+- There are many relevant theories in decision theory
+- Some setbacks will be discussed
+- The Iowa Champlain task and conditional cooperation game will be discussed
+- Anchoring model building in a concrete case of decision making is a stepping stone for more general cognitive model building
+- Some aspects of model building may not be fully understood at this stage
+- The Chenology on how to construct models will be introduced
+- Plate notation will be used to represent models
+- A simple model for binary choice will be built
+- The next classes will involve programming and testing the models
+- The quality of decisions made by a model can be varied
+- Flipping coins is an example of a simple decision-making method
+- Posterior checks will be discussed at some point
+- The word "WH" is important in Chenology

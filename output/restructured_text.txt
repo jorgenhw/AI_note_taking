@@ -1,0 +1,9 @@
+- This course will focus on practical tools for building decision models.
+- The goal is to anchor model building in theory, but it is not possible to cover all relevant theory.
+- The course will cover specific aspects of decision making using concrete examples such as the Iowa Gambling Task and the Conditional Cooperation Game.
+- The Chetanology and plate notation will be introduced as methods for constructing and representing models.
+- A simple model for binary choice between two objects will be built as a starting point.
+- In future classes, the models will be programmed and tested.
+- Participants can expect to have a basic understanding in this course and build upon it in future courses.
+- The Chetanology can be used to create decision-making models, including random decision-making like flipping a coin.
+- Posterior checks will be discussed at some point.
