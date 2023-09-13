@@ -39,8 +39,8 @@ Save the file. These are now global environment variables which the script can r
 Clone repository using the following lines in the unix-based bash:
 
 ```bash
-git clone https://github.com/jorgenhw/language_analytics_assignment_2.git
-cd language_analytics_assignment_2
+git clone https://github.com/jorgenhw/AI_note_taking.git
+cd AI_note_taking
 ```
 
 ### Run ```setup.sh```
