@@ -1,10 +1,18 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h1 align="center">Your Note Assistant</h1> 
-  <h3 align="center"><i>powered by Whisper and ChatGPT</i></h3> 
+  
+  <h1 align="center">Your AI Note Mate</h1> 
+  <h3 align="center">Cognitive Science Master's 2023</h3> 
+
+
+  <p align="center">
+    Jørgen HW
+    <br />
+
   </p>
 </p>
+
 
 <!-- ABOUT THE PROJECT -->
 ## About the project
@@ -19,12 +27,31 @@ To use or reproduce the results you need to adopt the following steps. Per defau
 **NOTE:** There may be slight variations depending on the terminal and operating system you use. The following example is designed to work using the Visual Studio Code version 1.76.0 (Universal) on a machine running MacOS Ventura 13.4 on a M1 Max chip. The terminal code should therefore work using a unix-based bash. The avoid potential package conflicts, the ```setup.sh``` bash files contains the steps necesarry to create a virtual environment for the project.
 
 1. Get an OpenAI API key
-2. Clone repository
-3. Update the ```.env``` file
-4. Run setup.sh
+2. Put some money into your account
+3. Download ffmpeg
+4. Clone repository
+5. Update the ```.env``` file
+6. Run setup.sh
 
 ### Get an OpenAI API key
 Create an OpenAI account from their OpenAI's [website](https://openai.com/). Verify and log in to the account and navigate to the API section. Here you can create a new API key. If in doubt, refer to [this thourough guide](https://www.maisieai.com/help/how-to-get-an-openai-api-key-for-chatgpt).
+
+### Put some money into your account
+In order to use chatGPT API you need to pay a very small amount each time (around 0.05$ each time you run the script). This means, that your OpenAI account needs to have some funds in it.
+
+### Download ffmpeg
+Using Whisper requires the command-line tool ffmpeg to be installed on your system, which is available from most package managers:
+
+```
+# on MacOS using Homebrew (https://brew.sh/)
+brew install ffmpeg
+
+# on Windows using Chocolatey (https://chocolatey.org/)
+choco install ffmpeg
+
+# on Windows using Scoop (https://scoop.sh/)
+scoop install ffmpeg
+```
 
 ### Update the ```.env``` file
 Enter your ```OpenAI API key``` in the environment file ```.env```.
