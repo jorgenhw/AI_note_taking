@@ -1,16 +1,19 @@
-- This is not a comprehensive overview of decision theory
-- The focus will be on concrete tools for building decision models
-- Decision models should be anchored in theory
-- There are many relevant theories in decision theory
-- Some setbacks will be discussed
-- The Iowa Champlain task and conditional cooperation game will be discussed
-- Anchoring model building in a concrete case of decision making is a stepping stone for more general cognitive model building
-- Some aspects of model building may not be fully understood at this stage
-- The Chenology on how to construct models will be introduced
-- Plate notation will be used to represent models
-- A simple model for binary choice will be built
-- The next classes will involve programming and testing the models
-- The quality of decisions made by a model can be varied
-- Flipping coins is an example of a simple decision-making method
-- Posterior checks will be discussed at some point
-- The word "WH" is important in Chenology
+-Cognitive neuroscience is an interdisciplinary field that combines cognitive science and neuroscience.
+-The aim of cognitive neuroscience is to understand how cognition works and why it is the way it is.
+-Cells are the fundamental units of life and are made up of proteins.
+-Amino acids are the building blocks of proteins.
+-Essential amino acids cannot be produced by cells and must be obtained from the environment.
+-Essential amino acids are involved in complex cognitive functions and can make neurotransmitters.
+-Homeostasis is the goal of cells and organisms to maintain balance and prevent decay.
+-Cells have a membrane that acts as a barrier and allows for different concentrations of ions inside and outside the cell.
+-Neurons are the main information processing devices of the brain.
+-Neurons communicate through action potentials and synapses.
+-Neurotransmitters are chemical messengers that transmit signals across synapses.
+-Ion channels in the post-synaptic neuron respond to neurotransmitters and cause depolarization or hyperpolarization.
+-Signal transmission can be modulated through various mechanisms.
+-Astrocytes are cells in the brain that have many functions, including providing energy to neurons.
+-Oligodendrocytes insulate axons and increase signal conduction speed.
+-Pericytes regulate blood flow in the brain.
+-The human brain has billions of neurons and complex structures.
+-The cerebellum contains 80% of the neurons in the brain.
+-The brain is incredibly complex and understanding it is a difficult task.

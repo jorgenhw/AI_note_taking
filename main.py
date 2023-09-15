@@ -6,7 +6,7 @@ def main(args):
 
     ################################
     # Loading the audio file #######
-    audio_file_path = os.path.join("audio_files", "Sample_file.mp3")
+    audio_file_path = os.path.join("lectures", "Wallentin_lecture_1.mp3")
     ################################
     ################################
 
